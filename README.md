@@ -22,7 +22,7 @@ Each application-type CI/CD blueprint has a respective sample repository, used b
 
 The structure is simple. 
 
-- Sample solution is stored in ```Src`` folder. 
+- Sample solution is stored in ```Src``` folder. 
 
 ```
     deploy
